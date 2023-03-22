@@ -10,15 +10,15 @@ Goals:
 
 The goal of this project is to gain insights into customer behavior, product sales and successful campaigns by exploring the dataset using SQL. Specifically, we will aim to answer the following questions:
 
-What factors are significantly related to the number of web purchases?
+* What factors are significantly related to the number of web purchases?
 
-Which marketing campaign was the most successful?
+* Which marketing campaign was the most successful?
 
-Which products are performing best?
+* Which products are performing best?
 
-Which channels are underperforming?
+* Which channels are underperforming?
 
-What does the average customer look like?
+* What does the average customer look like?
 
 
 
