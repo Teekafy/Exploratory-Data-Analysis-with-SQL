@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-with-SQL
 
-In this project, we will explore a dataset using SQL to perform exploratory data analysis. Exploratory data analysis is the process of analyzing and summarizing data in order to gain insights and identify patterns. We will use SQL queries to perform a range of analysis, including data aggregation, filtering, sorting, and data visualization. Partial parts of the dataset was cleaned using EXCEL
+In this project, we will explore a dataset using SQL to perform exploratory data analysis. Exploratory data analysis is the process of analyzing and summarizing data in order to gain insights and identify patterns. We will use SQL queries to perform a range of analysis, including data aggregation, filtering, sorting, and data visualization. This dataset was cleaned using EXCEL
 
 Dataset:
 
