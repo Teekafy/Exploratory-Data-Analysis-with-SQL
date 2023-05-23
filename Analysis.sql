@@ -1,4 +1,5 @@
--- Cleaning data with SQL Queries
+-- A little cleaning with SQL Queries
+-- I wanted to tweak a few extra things with SQL after using EXCEL
 
 -- View data
 select *
@@ -31,7 +32,7 @@ order by ID;
 alter table mar_ddata
 rename to maven_marketing_data;
 
--- Luckily, our data isn't so dirty
+
 -- Let's do some analysis
 
 -- Which campaign is the most successsful?
